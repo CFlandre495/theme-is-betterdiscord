@@ -1,0 +1,1 @@
+# theme-is-betterdiscord
